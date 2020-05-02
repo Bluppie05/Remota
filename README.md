@@ -1,0 +1,2 @@
+# Remota
+These days your internet connection has become super powerfull, we have it everywhere, in your house, on the streets and even in an airplane. But why are our mobile devices so underpowered? Remota fixes this issue by using your fast internet connection and the power of a computer or dedicated server to power your mobile device resulting in a blazing fast phone. Your phone will be hosted on your computer or on a server. 64GB will be history!
